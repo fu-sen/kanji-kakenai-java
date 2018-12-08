@@ -17,7 +17,7 @@ Java 版は Java を用いて動作する各種環境（主にパソコン）に
 Java をインストールしている場合 **kanji.jar** をクリックして起動できます。
 
 ソースから簡単に実行する方法は次のとおりです。<br />
-**-J-Dfile.encoding=UTF-8** を忘れないで下さい。
+**-Dfile.encoding=UTF-8** を忘れないで下さい。
 
 ```
 javac -J-Dfile.encoding=UTF-8 kanji.java
