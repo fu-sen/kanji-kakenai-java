@@ -12,7 +12,12 @@ Java 版は Java を用いて動作する各種環境（主にパソコン）に
 - [**漢字書けな～い。** https://kanji-kakenai.jimdo.com/](https://kanji-kakenai.jimdo.com/)
 - **原作 漢字書けな～い！** [iSoftware](http://nakasendo.com/isoft.html) | [最愛のiMacを創る会](http://nakasendo.com/) 
 
-## 簡単な実行方法
+## 実行方法
+
+Java をインストールしている場合 **kanji.jar** をクリックして起動できます。
+
+ソースから簡単に実行する方法は次のとおりです。<br />
+**-J-Dfile.encoding=UTF-8** を忘れないで下さい。
 
 ```
 javac -J-Dfile.encoding=UTF-8 kanji.java
