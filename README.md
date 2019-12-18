@@ -9,7 +9,7 @@ Java 版は Java を用いて動作する各種環境（主にパソコン）に
 「漢字書けな～い。」は 中仙道 太郎 氏製作「漢字書けな〜い！」シリーズ作品です。\
 原作者 中仙道 太郎 氏より許可をいただいています。
 
-- [**漢字書けな～い。** https://kanji-kakenai.jimdo.com/](https://kanji-kakenai.jimdo.com/)
+- [**漢字書けな～い。** https://kanji-kakenai.jimdo.com/](https://kanji-kakenai.jimdofree.com/)
 - **原作 漢字書けな～い！** [iSoftware](http://nakasendo.com/isoft.html) | [最愛のiMacを創る会](http://nakasendo.com/) 
 
 ## 実行方法
